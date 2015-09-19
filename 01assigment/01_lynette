@@ -1,0 +1,72 @@
+<html>
+<head>
+	Lynette's Favorite Recipe -- Vietnamese Chicken Pho! 
+	<title> 
+	Lynette's Favorite Recipe -- Vietnamese Chicken Pho! 
+	</title>
+
+	<h1>Lynn Cooks</h1>
+	<a href="http://smfa.edu">HOME</a> 
+
+	<a href="http://google.com">ALL RECIPES</a> 
+
+	<a href="http://google.com">ABOUT ME</a> 
+
+	<a href="mailto:yuchun.bian@gmail.com">CONTACT</a> 
+
+	</head>
+
+	<hr />  <hr />
+
+<body>
+	<h2>What is Pho?</h2>
+
+	<blockquote>
+		Pho is a Vietnamese noodle soup consisting of broth, linguine-shaped rice noodles, a few herbs, and meat, primarily served with either beef or chicken. Pho is a popular street food in Vietnam and the specialty of a number of restaurant chains around the world. Southern Vietnamese eat it for breakfast and occasionally lunch, whereas those from northern Vietnam consume it at any time of day.
+	</blockquote>
+
+	<a href="#anyword">Check out more Asian noodle dishes!</a>
+
+	<h2>Ingredients</h2>
+	<ul>
+		<li>A whole chicken</li>
+		<li>Two onions</li>
+		<li>An inch of Ginger</li>
+		<li>A bunch of Scallions</li>
+		<li>A bunch of Cilantro</li>
+		<li>Pho seasoning</li>
+		<li>Two limes, quartered
+		<li>A table spoon Salt</li>
+		<li>A cup of Fish Sauce</li>
+		<li>A bag of Pho rice noodles</li>
+	</ul>
+
+	<h2>Directions</h2>
+	<ol>
+		<li>Place the whole chicken in a large stockpot and fill the pot with water. Bring the water to a boil and add onions, ginger, and salt. Lower the heat to moderate and simmer until chicken is cooked, about 30 minutes. Aftwe the chicken is cooked, tear the meat off of the chicken and put the chicken bones back into the stock. </li>
+		<li>In a large bowl of warm water, soak the noodles until pliable, about 20 minutes.</li>
+		<li>Bring a large saucepan of salted water to a boil. Drain the noodles, then add them to the saucepan and boil over high heat until tender, about 3 minutes. Drain well. Transfer the noodles to 5 large bowls. </li>
+		<li>Chop the scallions and cilantro very finely. Mix them together and put them on noodles in bowls. </li>
+		<li>Put the shredded chicken in bowls and ladle the broth over noodles. Serve with the limes. </li>
+
+
+	</ol> 
+
+	<hr />  <hr />
+
+	<a id="anyword"> </a>
+
+	<h2> Check out these RECIPES too!</h2>
+	<a href="http://www.thekitchn.com/recipe-taiwanes-159033">Taiwanese Beef Noodle</a> 
+
+	<a href="http://www.justonecookbook.com/soba-noodle-soup/">Soba Noodle Soup</a> 
+
+	<a href="http://www.epicurious.com/recipes/food/views/drunken-noodles-232698">Drunken Noodle</a> 
+
+	<a href="http://www.bonappetit.com/recipe/pad-thai">Pad Thai</a> 
+
+	<a href="http://www.thecookingjar.com/hibachi-noodles/">Hibachi Noodle</a> 
+
+</body>
+
+</html>

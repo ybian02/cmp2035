@@ -1,2 +1,0 @@
-This is a sentence on line 1
-This is another sentence. 
