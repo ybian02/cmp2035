@@ -1,36 +1,43 @@
 body {
 	padding: 20px ; 
-	background-color: #BFD8E0;
+	background-color: #DEE5CB;
+}
+
+a {
+	font-family: Bebas Neue,fantasy;
+	color: #3D5958;
+	font-size: 24px;
+	background-color: #DEE5CB;
 }
 h1 {
-	font-family: Arial, Verdana, sans-serif ;
-	color: #E94D1B;
-	font-size: 36px;
+	font-family: impact, fantasy;
+	color: #EB5433;
+	font-size: 48px;
 }
 h2 
 {
-	font-family: Arial, Verdana, sans-serif ;
-	color: #65727B;
-	font-size: 24px;
+	font-family: Bebas Neue,fantasy;
+	color: #EE7D33;
+	font-size: 30px;
 	padding-bottom:5px;
 }
 h3
 {
-	font-family: Arial, Verdana, sans-serif ;
-	color: #5F91AE;
+	font-family: Bebas Neue,fantasy;
+	color: #EE7D33;
 	font-size: 18px;
 }
 p
 {
-	font-family: Verdana, sans-serif;
-	color:#65727B;
+	font-family: Helvetica, Verdana, sans-serif;
+	color:#EE7D33;
 	font-size: 12px;
 	background-color: #F5F5F5;
 	padding:7px;
 }
 blockquote
 {
-	font-family: Verdana, sans-serif;
+	font-family: Helvetica,Verdana, sans-serif;
 	color:#65727B;
 	font-size: 12px;
 	background-color: #F5F5F5;
@@ -41,7 +48,7 @@ blockquote
 }
 ul
 {
-	font-family: Verdana, sans-serif;
+	font-family: Helvetica,Verdana, sans-serif;
 	color:#65727B;
 	font-size: 12px;
 	background-color: #F5F5F5;
@@ -51,7 +58,7 @@ ul
 }
 ol
 {
-	font-family: Verdana, sans-serif;
+	font-family: Helvetica,Verdana, sans-serif;
 	color:#65727B;
 	font-size: 12px;
 	background-color: #F5F5F5;
