@@ -10,9 +10,18 @@ h1 {
     text-align: center;
     font-size: 48px;
     font-weight: bolder;
-     padding:20px;
     margin-left: 60px;
-        margin-right: 60px}
+    margin-right: 60px;
+    margin-top: 20px}
+p.tagline {
+font-family: Gotham, sans-serif;
+    color: #050000;
+    text-align: center;
+    font-size: 24px;
+
+
+
+}
 
 ul{
 list-style:none}
@@ -1088,7 +1097,7 @@ display:block}
 content:''}
 
 .toc.grid .row{
-width:300px;height:290px;margin:0 12px 16px 0;border:1px solid #ccc;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:0 0 7px 0 #ddd;-moz-box-shadow:0 0 7px 0 #ddd;box-shadow:0 0 7px 0 #ddd;line-height:1.3em;overflow:hidden;white-space:normal;display:-moz-inline-stack;display:inline-block;*display:inline;*zoom:1;vertical-align:top;position:relative}
+width:300px;height:290px;margin:0 12px 16px 0; border:1px solid #ccc;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:0 0 7px 0 #ddd;-moz-box-shadow:0 0 7px 0 #ddd;box-shadow:0 0 7px 0 #ddd;line-height:1.3em;overflow:hidden;white-space:normal;display:-moz-inline-stack;display:inline-block;*display:inline;*zoom:1;vertical-align:top;position:relative}
 
 .toc.grid .row .txt{
 padding:2px 3px 0 3px;display:block}
