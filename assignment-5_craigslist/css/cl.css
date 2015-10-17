@@ -534,7 +534,7 @@ max-width:600px;max-height:450px}
 position:relative}
 
 .iw .carousel .tray .slide{
-position:relative;max-width:440px;height:330px;display:none}
+position:center;max-width:440px;height:330px;display:none}
 
 .iw .carousel .tray .slide.first{
 display:block}
