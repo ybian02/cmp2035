@@ -205,15 +205,46 @@ footer a:link, footer a:visited {
     font-family: 'Lato', sans-serif;
     font-weight: 900;
     font-size: 30px;
-    margin-left:150px;
+    margin-left:250px;
 }
 .bottom ul {
     font-family: 'Lato', serif;
-    margin-left: 150px;
+    margin-left: 220px;
     font-size: 20px;
     font-weight: 100;
     padding-bottom: 170px;
 }
+.archives {
+        position: relative;
+    	top: -765px ;
+		left: 700px ;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+        
+}
+.next a{
+        position: relative;
+    	top: -765px ;
+		left: 700px ;
+    color: white;
+    font-family: 'Lato', serif;
+    font-size: 20px;
+    font-weight: 100;
+
+}
+.next ul{
+        position: relative;
+    	top: -765px ;
+		left: 900px ;
+    color: white;
+    font-family: 'Lato', serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
 
 footer{
 background-color: #ff512f;
